@@ -86,7 +86,7 @@
 
 ### Dashboard Preview
 
-![Cafe Sales Dashboard](Power%20BI/dashboard_preview.png)
+![Cafe Sales Dashboard](Power%20BI/dashboard_preview.pdf)
 
 ### Project Files
 
