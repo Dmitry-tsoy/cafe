@@ -93,8 +93,6 @@
 - **[📊 Power BI Dashboard (.pbix)](Power%20BI/dashboard.pbix)** — интерактивный отчёт Power BI.
 - **[📓 Jupyter Notebook (.ipynb)](Cafe.ipynb)** — очистка данных, исследовательский анализ и выводы.
 
-Для открытия интерактивного отчёта необходимо скачать файл `.pbix` и открыть его в Power BI Desktop.
-
 ---
 
 ## 📈 Основные результаты
