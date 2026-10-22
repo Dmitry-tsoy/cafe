@@ -1,5 +1,6 @@
 
 # Cafe Sales Analysis
+![Power BI Dashboard](Power%20BI/dashboard_preview.png)
 
 ## 📌 О проекте
 
